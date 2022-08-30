@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "seccion1.html",
+    "href": "seccion1.html",
+    "title": "mysite",
+    "section": "",
+    "text": "Este es un ejemplo de texto que da entrada a una lista genérica de elementos:\n\nElemento 1\nElemento 2\nElemento 3\n\nEste es un ejemplo de texto que da entrada a una lista numerada:\n\nElemento 1\nElemento 2\nElemento 3\n\nAl texto en Markdown puedes añadirle formato como negrita o cursiva de una manera muy sencilla."
+  }
+]
